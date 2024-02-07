@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dangeroustechnology, I use they/them pronouns
 - 👀 I’m interested in game modding and development
-- 🌱 I’m currently learning Lua
 
 <!---
 dangeroustechnology/dangeroustechnology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
